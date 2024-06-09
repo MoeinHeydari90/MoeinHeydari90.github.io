@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of Denmark?",
+        "options": [
+            {
+                "text": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "text": "Copenhagen",
+                "isCorrect": true
+            },
+            {
+                "text": "Madrid",
+                "isCorrect": false
+            },
+            {
+                "text": "Rome",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "Copenhagen is the capital of Denmark."
+    },
+    {
+        "id": 2,
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            {
+                "text": "Atlantic Ocean",
+                "isCorrect": false
+            },
+            {
+                "text": "Indian Ocean",
+                "isCorrect": false
+            },
+            {
+                "text": "Pacific Ocean",
+                "isCorrect": true
+            },
+            {
+                "text": "Arctic Ocean",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "The Pacific Ocean is the largest ocean on Earth, covering about 30% of the Earth's surface."
+    },
+    {
+        "id": 3,
+        "question": "What is the rarest blood type?",
+        "options": [
+            {
+                "text": "A",
+                "isCorrect": false
+            },
+            {
+                "text": "B",
+                "isCorrect": false
+            },
+            {
+                "text": "AB",
+                "isCorrect": false
+            },
+            {
+                "text": "AB-negative",
+                "isCorrect": true
+            }
+        ],
+        "explanation": "AB-negative is the rarest blood type, occurring in only about 1% of the population."
+    },
+    {
+        "id": 4,
+        "question": "What is the smallest planet in our solar system?",
+        "options": [
+            {
+                "text": "Earth",
+                "isCorrect": false
+            },
+            {
+                "text": "Mars",
+                "isCorrect": false
+            },
+            {
+                "text": "Mercury",
+                "isCorrect": true
+            },
+            {
+                "text": "Venus",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "Mercury is the smallest planet in our solar system, with a diameter of approximately 4,879 kilometers."
+    },
+    {
+        "id": 5,
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            {
+                "text": "Ag",
+                "isCorrect": false
+            },
+            {
+                "text": "Au",
+                "isCorrect": true
+            },
+            {
+                "text": "Pt",
+                "isCorrect": false
+            },
+            {
+                "text": "Hg",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "The chemical symbol for gold is Au, which comes from the Latin word 'aurum' meaning gold."
+    },
+    {
+        "id": 6,
+        "question": "What is the tallest mammal?",
+        "options": [
+            {
+                "text": "Giraffe",
+                "isCorrect": true
+            },
+            {
+                "text": "Elephant",
+                "isCorrect": false
+            },
+            {
+                "text": "Hippopotamus",
+                "isCorrect": false
+            },
+            {
+                "text": "Rhinoceros",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "The giraffe is the tallest mammal, with an average height of around 5-6 meters."
+    },
+    {
+        "id": 7,
+        "question": "What is the largest continent?",
+        "options": [
+            {
+                "text": "Africa",
+                "isCorrect": false
+            },
+            {
+                "text": "Asia",
+                "isCorrect": true
+            },
+            {
+                "text": "North America",
+                "isCorrect": false
+            },
+            {
+                "text": "South America",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "Asia is the largest continent, covering about 30% of the Earth's land area."
+    },
+    {
+        "id": 8,
+        "question": "What is the smallest country in the world by land area?",
+        "options": [
+            {
+                "text": "Monaco",
+                "isCorrect": false
+            },
+            {
+                "text": "Vatican City",
+                "isCorrect": true
+            },
+            {
+                "text": "San Marino",
+                "isCorrect": false
+            },
+            {
+                "text": "Nauru",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "Vatican City is the smallest country in the world by land area, with an area of just 0.17 square miles."
+    },
+    {
+        "id": 9,
+        "question": "What is the largest desert in the world?",
+        "options": [
+            {
+                "text": "Sahara Desert",
+                "isCorrect": true
+            },
+            {
+                "text": "Gobi Desert",
+                "isCorrect": false
+            },
+            {
+                "text": "Arabian Desert",
+                "isCorrect": false
+            },
+            {
+                "text": "Patagonian Desert",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of about 3.6 million square miles."
+    },
+    {
+        "id": 10,
+        "question": "What is the smallest bone in the human body?",
+        "options": [
+            {
+                "text": "Stirrup bone",
+                "isCorrect": true
+            },
+            {
+                "text": "Clavicle",
+                "isCorrect": false
+            },
+            {
+                "text": "Phalanx",
+                "isCorrect": false
+            },
+            {
+                "text": "Patella",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "The stirrup bone (or stapes) in the middle ear is the smallest bone in the human body, measuring about 3mm in length."
+    }
+]
