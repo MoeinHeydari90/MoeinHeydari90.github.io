@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "question": "Who is known as the father of Western philosophy?",
+        "options": [
+            { "text": "Plato", "isCorrect": false },
+            { "text": "Socrates", "isCorrect": true },
+            { "text": "Aristotle", "isCorrect": false },
+            { "text": "Pythagoras", "isCorrect": false }
+        ],
+        "explanation": "Socrates is known as the father of Western philosophy."
+    },
+    {
+        "id": 2,
+        "question": "Which philosopher wrote 'Critique of Pure Reason'?",
+        "options": [
+            { "text": "Immanuel Kant", "isCorrect": true },
+            { "text": "René Descartes", "isCorrect": false },
+            { "text": "Friedrich Nietzsche", "isCorrect": false },
+            { "text": "John Locke", "isCorrect": false }
+        ],
+        "explanation": "Immanuel Kant wrote 'Critique of Pure Reason'."
+    },
+    {
+        "id": 3,
+        "question": "What is the main idea of Plato's 'Allegory of the Cave'?",
+        "options": [
+            {
+                "text": "The nature of reality and perception",
+                "isCorrect": true
+            },
+            { "text": "The concept of justice", "isCorrect": false },
+            { "text": "The theory of forms", "isCorrect": false },
+            { "text": "The importance of education", "isCorrect": false }
+        ],
+        "explanation": "Plato's 'Allegory of the Cave' illustrates the nature of reality and perception."
+    },
+    {
+        "id": 4,
+        "question": "Which philosopher is famous for the quote 'I think, therefore I am'?",
+        "options": [
+            { "text": "David Hume", "isCorrect": false },
+            { "text": "John Stuart Mill", "isCorrect": false },
+            { "text": "René Descartes", "isCorrect": true },
+            { "text": "Baruch Spinoza", "isCorrect": false }
+        ],
+        "explanation": "René Descartes is famous for the quote 'I think, therefore I am'."
+    },
+    {
+        "id": 5,
+        "question": "Who wrote 'The Republic'?",
+        "options": [
+            { "text": "Aristotle", "isCorrect": false },
+            { "text": "Plato", "isCorrect": true },
+            { "text": "Socrates", "isCorrect": false },
+            { "text": "Epicurus", "isCorrect": false }
+        ],
+        "explanation": "Plato wrote 'The Republic'."
+    },
+    {
+        "id": 6,
+        "question": "What is the primary focus of existentialist philosophy?",
+        "options": [
+            {
+                "text": "Metaphysics and the nature of being",
+                "isCorrect": false
+            },
+            {
+                "text": "The meaning of existence and individual freedom",
+                "isCorrect": true
+            },
+            { "text": "Ethics and moral values", "isCorrect": false },
+            { "text": "Political theory and justice", "isCorrect": false }
+        ],
+        "explanation": "Existentialist philosophy primarily focuses on the meaning of existence and individual freedom."
+    },
+    {
+        "id": 7,
+        "question": "Which philosopher is associated with the concept of the 'Übermensch'?",
+        "options": [
+            { "text": "Immanuel Kant", "isCorrect": false },
+            { "text": "Friedrich Nietzsche", "isCorrect": true },
+            { "text": "Jean-Paul Sartre", "isCorrect": false },
+            { "text": "Arthur Schopenhauer", "isCorrect": false }
+        ],
+        "explanation": "Friedrich Nietzsche is associated with the concept of the 'Übermensch'."
+    },
+    {
+        "id": 8,
+        "question": "Who developed the theory of utilitarianism?",
+        "options": [
+            { "text": "John Locke", "isCorrect": false },
+            { "text": "Jeremy Bentham", "isCorrect": true },
+            { "text": "G.W.F. Hegel", "isCorrect": false },
+            { "text": "Martin Heidegger", "isCorrect": false }
+        ],
+        "explanation": "Jeremy Bentham developed the theory of utilitarianism."
+    },
+    {
+        "id": 9,
+        "question": "What does the term 'tabula rasa' refer to in philosophy?",
+        "options": [
+            {
+                "text": "The innate knowledge of human beings",
+                "isCorrect": false
+            },
+            { "text": "The mind as a blank slate", "isCorrect": true },
+            { "text": "The highest form of knowledge", "isCorrect": false },
+            { "text": "The state of nature", "isCorrect": false }
+        ],
+        "explanation": "In philosophy, 'tabula rasa' refers to the mind as a blank slate."
+    },
+    {
+        "id": 10,
+        "question": "Which philosopher wrote 'Being and Time'?",
+        "options": [
+            { "text": "Karl Marx", "isCorrect": false },
+            { "text": "Jean-Paul Sartre", "isCorrect": false },
+            { "text": "Martin Heidegger", "isCorrect": true },
+            { "text": "Simone de Beauvoir", "isCorrect": false }
+        ],
+        "explanation": "Martin Heidegger wrote 'Being and Time'."
+    }
+]

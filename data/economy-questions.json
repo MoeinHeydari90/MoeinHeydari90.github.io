@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary function of the Federal Reserve?",
+        "options": [
+            { "text": "Collecting taxes", "isCorrect": false },
+            { "text": "Controlling the money supply", "isCorrect": true },
+            { "text": "Regulating international trade", "isCorrect": false },
+            { "text": "Setting fiscal policy", "isCorrect": false }
+        ],
+        "explanation": "The primary function of the Federal Reserve is controlling the money supply."
+    },
+    {
+        "id": 2,
+        "question": "What does GDP stand for?",
+        "options": [
+            { "text": "Gross Domestic Product", "isCorrect": true },
+            { "text": "Global Domestic Policy", "isCorrect": false },
+            { "text": "Gross Development Potential", "isCorrect": false },
+            { "text": "Global Development Plan", "isCorrect": false }
+        ],
+        "explanation": "GDP stands for Gross Domestic Product."
+    },
+    {
+        "id": 3,
+        "question": "Who is known for the theory of comparative advantage?",
+        "options": [
+            { "text": "John Maynard Keynes", "isCorrect": false },
+            { "text": "David Ricardo", "isCorrect": true },
+            { "text": "Adam Smith", "isCorrect": false },
+            { "text": "Milton Friedman", "isCorrect": false }
+        ],
+        "explanation": "David Ricardo is known for the theory of comparative advantage."
+    },
+    {
+        "id": 4,
+        "question": "What is inflation?",
+        "options": [
+            {
+                "text": "A decrease in the general price level",
+                "isCorrect": false
+            },
+            {
+                "text": "An increase in the general price level",
+                "isCorrect": true
+            },
+            { "text": "An increase in the value of money", "isCorrect": false },
+            { "text": "A decrease in the supply of money", "isCorrect": false }
+        ],
+        "explanation": "Inflation is an increase in the general price level."
+    },
+    {
+        "id": 5,
+        "question": "Which economic theory advocates for minimal government intervention in the economy?",
+        "options": [
+            { "text": "Keynesian economics", "isCorrect": false },
+            { "text": "Laissez-faire economics", "isCorrect": true },
+            { "text": "Monetarism", "isCorrect": false },
+            { "text": "Marxism", "isCorrect": false }
+        ],
+        "explanation": "Laissez-faire economics advocates for minimal government intervention in the economy."
+    },
+    {
+        "id": 6,
+        "question": "What is the law of demand?",
+        "options": [
+            {
+                "text": "As the price of a good increases, the quantity demanded increases",
+                "isCorrect": false
+            },
+            {
+                "text": "As the price of a good increases, the quantity demanded decreases",
+                "isCorrect": true
+            },
+            {
+                "text": "As the price of a good decreases, the quantity demanded decreases",
+                "isCorrect": false
+            },
+            {
+                "text": "Price and quantity demanded are unrelated",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "The law of demand states that as the price of a good increases, the quantity demanded decreases."
+    },
+    {
+        "id": 7,
+        "question": "Who wrote 'The Wealth of Nations'?",
+        "options": [
+            { "text": "Karl Marx", "isCorrect": false },
+            { "text": "Adam Smith", "isCorrect": true },
+            { "text": "John Maynard Keynes", "isCorrect": false },
+            { "text": "Friedrich Hayek", "isCorrect": false }
+        ],
+        "explanation": "Adam Smith wrote 'The Wealth of Nations'."
+    },
+    {
+        "id": 8,
+        "question": "What is a recession?",
+        "options": [
+            {
+                "text": "A period of rising employment and economic growth",
+                "isCorrect": false
+            },
+            {
+                "text": "A period of declining economic performance across an economy",
+                "isCorrect": true
+            },
+            {
+                "text": "A prolonged period of high inflation",
+                "isCorrect": false
+            },
+            {
+                "text": "A sustained increase in the stock market",
+                "isCorrect": false
+            }
+        ],
+        "explanation": "A recession is a period of declining economic performance across an economy."
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of a tariff?",
+        "options": [
+            { "text": "To promote free trade", "isCorrect": false },
+            {
+                "text": "To raise revenue for the government and protect domestic industries",
+                "isCorrect": true
+            },
+            {
+                "text": "To decrease the price of imported goods",
+                "isCorrect": false
+            },
+            { "text": "To regulate the money supply", "isCorrect": false }
+        ],
+        "explanation": "The purpose of a tariff is to raise revenue for the government and protect domestic industries."
+    },
+    {
+        "id": 10,
+        "question": "Which economist is associated with the idea of 'creative destruction'?",
+        "options": [
+            { "text": "John Maynard Keynes", "isCorrect": false },
+            { "text": "Joseph Schumpeter", "isCorrect": true },
+            { "text": "Milton Friedman", "isCorrect": false },
+            { "text": "Alfred Marshall", "isCorrect": false }
+        ],
+        "explanation": "Joseph Schumpeter is associated with the idea of 'creative destruction'."
+    }
+]

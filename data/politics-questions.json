@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Who is known as the 'Father of the Constitution' in the United States?",
+        "options": [
+            { "text": "George Washington", "isCorrect": false },
+            { "text": "Thomas Jefferson", "isCorrect": false },
+            { "text": "James Madison", "isCorrect": true },
+            { "text": "Alexander Hamilton", "isCorrect": false }
+        ],
+        "explanation": "James Madison is known as the 'Father of the Constitution' in the United States."
+    },
+    {
+        "id": 2,
+        "question": "What political ideology advocates for minimal government intervention in personal and economic matters?",
+        "options": [
+            { "text": "Socialism", "isCorrect": false },
+            { "text": "Libertarianism", "isCorrect": true },
+            { "text": "Conservatism", "isCorrect": false },
+            { "text": "Liberalism", "isCorrect": false }
+        ],
+        "explanation": "Libertarianism advocates for minimal government intervention in personal and economic matters."
+    },
+    {
+        "id": 3,
+        "question": "What is the primary function of the legislative branch of government?",
+        "options": [
+            { "text": "Enforcing laws", "isCorrect": false },
+            { "text": "Interpreting laws", "isCorrect": false },
+            { "text": "Making laws", "isCorrect": true },
+            { "text": "Electing the president", "isCorrect": false }
+        ],
+        "explanation": "The primary function of the legislative branch of government is making laws."
+    },
+    {
+        "id": 4,
+        "question": "Which political theory is associated with Karl Marx?",
+        "options": [
+            { "text": "Capitalism", "isCorrect": false },
+            { "text": "Liberalism", "isCorrect": false },
+            { "text": "Communism", "isCorrect": true },
+            { "text": "Fascism", "isCorrect": false }
+        ],
+        "explanation": "Communism is the political theory associated with Karl Marx."
+    },
+    {
+        "id": 5,
+        "question": "What does the term 'bicameral' mean in the context of a legislative body?",
+        "options": [
+            { "text": "Having two houses", "isCorrect": true },
+            { "text": "Having a single house", "isCorrect": false },
+            { "text": "Having three branches", "isCorrect": false },
+            { "text": "Having a judicial review", "isCorrect": false }
+        ],
+        "explanation": "In the context of a legislative body, 'bicameral' means having two houses."
+    },
+    {
+        "id": 6,
+        "question": "Who wrote the political treatise 'The Prince'?",
+        "options": [
+            { "text": "John Locke", "isCorrect": false },
+            { "text": "Thomas Hobbes", "isCorrect": false },
+            { "text": "Niccolò Machiavelli", "isCorrect": true },
+            { "text": "Jean-Jacques Rousseau", "isCorrect": false }
+        ],
+        "explanation": "Niccolò Machiavelli wrote the political treatise 'The Prince'."
+    },
+    {
+        "id": 7,
+        "question": "Which country is known for its policy of neutrality in international conflicts?",
+        "options": [
+            { "text": "United States", "isCorrect": false },
+            { "text": "Switzerland", "isCorrect": true },
+            { "text": "France", "isCorrect": false },
+            { "text": "Russia", "isCorrect": false }
+        ],
+        "explanation": "Switzerland is known for its policy of neutrality in international conflicts."
+    },
+    {
+        "id": 8,
+        "question": "What was the main purpose of the Magna Carta when it was signed in 1215?",
+        "options": [
+            { "text": "To establish a parliament", "isCorrect": false },
+            { "text": "To limit the power of the king", "isCorrect": true },
+            { "text": "To create a new monarchy", "isCorrect": false },
+            { "text": "To unify the British Isles", "isCorrect": false }
+        ],
+        "explanation": "The main purpose of the Magna Carta when it was signed in 1215 was to limit the power of the king."
+    },
+    {
+        "id": 9,
+        "question": "What is the main role of the executive branch of government?",
+        "options": [
+            { "text": "Making laws", "isCorrect": false },
+            { "text": "Interpreting laws", "isCorrect": false },
+            { "text": "Enforcing laws", "isCorrect": true },
+            { "text": "Electing officials", "isCorrect": false }
+        ],
+        "explanation": "The main role of the executive branch of government is enforcing laws."
+    },
+    {
+        "id": 10,
+        "question": "Which document outlines the supreme law of the United States?",
+        "options": [
+            { "text": "Declaration of Independence", "isCorrect": false },
+            { "text": "Articles of Confederation", "isCorrect": false },
+            { "text": "United States Constitution", "isCorrect": true },
+            { "text": "Federalist Papers", "isCorrect": false }
+        ],
+        "explanation": "The United States Constitution outlines the supreme law of the United States."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            { "text": "O2", "isCorrect": false },
+            { "text": "H2O", "isCorrect": true },
+            { "text": "CO2", "isCorrect": false },
+            { "text": "NaCl", "isCorrect": false }
+        ],
+        "explanation": "The chemical symbol for water is H2O."
+    },
+    {
+        "id": 2,
+        "question": "What planet is known as the Red Planet?",
+        "options": [
+            { "text": "Venus", "isCorrect": false },
+            { "text": "Mars", "isCorrect": true },
+            { "text": "Jupiter", "isCorrect": false },
+            { "text": "Saturn", "isCorrect": false }
+        ],
+        "explanation": "Mars is known as the Red Planet."
+    },
+    {
+        "id": 3,
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            { "text": "Nucleus", "isCorrect": false },
+            { "text": "Ribosome", "isCorrect": false },
+            { "text": "Mitochondria", "isCorrect": true },
+            { "text": "Endoplasmic reticulum", "isCorrect": false }
+        ],
+        "explanation": "The mitochondria is known as the powerhouse of the cell."
+    },
+    {
+        "id": 4,
+        "question": "What force keeps us grounded on the Earth?",
+        "options": [
+            { "text": "Electromagnetic force", "isCorrect": false },
+            { "text": "Nuclear force", "isCorrect": false },
+            { "text": "Gravity", "isCorrect": true },
+            { "text": "Friction", "isCorrect": false }
+        ],
+        "explanation": "Gravity is the force that keeps us grounded on the Earth."
+    },
+    {
+        "id": 5,
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": [
+            { "text": "Oxygen", "isCorrect": false },
+            { "text": "Carbon Dioxide", "isCorrect": false },
+            { "text": "Nitrogen", "isCorrect": true },
+            { "text": "Hydrogen", "isCorrect": false }
+        ],
+        "explanation": "Nitrogen is the most abundant gas in Earth's atmosphere."
+    },
+    {
+        "id": 6,
+        "question": "What is the center of an atom called?",
+        "options": [
+            { "text": "Electron", "isCorrect": false },
+            { "text": "Proton", "isCorrect": false },
+            { "text": "Nucleus", "isCorrect": true },
+            { "text": "Neutron", "isCorrect": false }
+        ],
+        "explanation": "The center of an atom is called the nucleus."
+    },
+    {
+        "id": 7,
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            { "text": "Earth", "isCorrect": false },
+            { "text": "Mars", "isCorrect": false },
+            { "text": "Jupiter", "isCorrect": true },
+            { "text": "Saturn", "isCorrect": false }
+        ],
+        "explanation": "Jupiter is the largest planet in our solar system."
+    },
+    {
+        "id": 8,
+        "question": "What part of the human brain is responsible for regulating balance and coordination?",
+        "options": [
+            { "text": "Cerebrum", "isCorrect": false },
+            { "text": "Cerebellum", "isCorrect": true },
+            { "text": "Medulla oblongata", "isCorrect": false },
+            { "text": "Hypothalamus", "isCorrect": false }
+        ],
+        "explanation": "The cerebellum is responsible for regulating balance and coordination."
+    },
+    {
+        "id": 9,
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            { "text": "Gold", "isCorrect": false },
+            { "text": "Iron", "isCorrect": false },
+            { "text": "Diamond", "isCorrect": true },
+            { "text": "Platinum", "isCorrect": false }
+        ],
+        "explanation": "Diamond is the hardest natural substance on Earth."
+    },
+    {
+        "id": 10,
+        "question": "What is the boiling point of water at standard atmospheric pressure?",
+        "options": [
+            { "text": "50°C", "isCorrect": false },
+            { "text": "100°C", "isCorrect": true },
+            { "text": "150°C", "isCorrect": false },
+            { "text": "200°C", "isCorrect": false }
+        ],
+        "explanation": "The boiling point of water at standard atmospheric pressure is 100°C."
+    }
+]

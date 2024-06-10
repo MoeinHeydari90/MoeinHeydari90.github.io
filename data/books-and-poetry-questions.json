@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": [
+            { "text": "F. Scott Fitzgerald", "isCorrect": false },
+            { "text": "Harper Lee", "isCorrect": true },
+            { "text": "J.D. Salinger", "isCorrect": false },
+            { "text": "Ernest Hemingway", "isCorrect": false }
+        ],
+        "explanation": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+        "id": 2,
+        "question": "Which poet wrote 'The Raven'?",
+        "options": [
+            { "text": "Robert Frost", "isCorrect": false },
+            { "text": "Emily Dickinson", "isCorrect": false },
+            { "text": "Edgar Allan Poe", "isCorrect": true },
+            { "text": "Walt Whitman", "isCorrect": false }
+        ],
+        "explanation": "'The Raven' was written by Edgar Allan Poe."
+    },
+    {
+        "id": 3,
+        "question": "Who is the author of 'Pride and Prejudice'?",
+        "options": [
+            { "text": "Charlotte Brontë", "isCorrect": false },
+            { "text": "Jane Austen", "isCorrect": true },
+            { "text": "Mary Shelley", "isCorrect": false },
+            { "text": "Louisa May Alcott", "isCorrect": false }
+        ],
+        "explanation": "'Pride and Prejudice' was written by Jane Austen."
+    },
+    {
+        "id": 4,
+        "question": "Which novel begins with 'Call me Ishmael'?",
+        "options": [
+            { "text": "The Great Gatsby", "isCorrect": false },
+            { "text": "Moby Dick", "isCorrect": true },
+            { "text": "War and Peace", "isCorrect": false },
+            { "text": "The Catcher in the Rye", "isCorrect": false }
+        ],
+        "explanation": "'Moby Dick' begins with the line 'Call me Ishmael'."
+    },
+    {
+        "id": 5,
+        "question": "Who wrote '1984'?",
+        "options": [
+            { "text": "Aldous Huxley", "isCorrect": false },
+            { "text": "George Orwell", "isCorrect": true },
+            { "text": "Ray Bradbury", "isCorrect": false },
+            { "text": "Kurt Vonnegut", "isCorrect": false }
+        ],
+        "explanation": "'1984' was written by George Orwell."
+    },
+    {
+        "id": 6,
+        "question": "Which poet is known for the collection 'Leaves of Grass'?",
+        "options": [
+            { "text": "Walt Whitman", "isCorrect": true },
+            { "text": "Emily Dickinson", "isCorrect": false },
+            { "text": "Robert Frost", "isCorrect": false },
+            { "text": "Langston Hughes", "isCorrect": false }
+        ],
+        "explanation": "Walt Whitman is known for the collection 'Leaves of Grass'."
+    },
+    {
+        "id": 7,
+        "question": "Who and from what country is the poem at the entrance of the United Nations headquarters?",
+        "options": [
+            { "text": "William Shakespeare - England", "isCorrect": false },
+            { "text": "Goethe - Germany", "isCorrect": false },
+            { "text": "Saadi - Iran", "isCorrect": true },
+            { "text": "Pablo Neruda - Chile", "isCorrect": false }
+        ],
+        "explanation": "The poem at the entrance of the United Nations headquarters is by Saadi, a Persian poet from Iran."
+    },
+    {
+        "id": 8,
+        "question": "Which poet wrote 'Do Not Go Gentle into That Good Night'?",
+        "options": [
+            { "text": "Sylvia Plath", "isCorrect": false },
+            { "text": "Dylan Thomas", "isCorrect": true },
+            { "text": "T.S. Eliot", "isCorrect": false },
+            { "text": "W.H. Auden", "isCorrect": false }
+        ],
+        "explanation": "'Do Not Go Gentle into That Good Night' was written by Dylan Thomas."
+    },
+    {
+        "id": 9,
+        "question": "Who is the author of 'The Great Gatsby'?",
+        "options": [
+            { "text": "F. Scott Fitzgerald", "isCorrect": true },
+            { "text": "Ernest Hemingway", "isCorrect": false },
+            { "text": "William Faulkner", "isCorrect": false },
+            { "text": "John Steinbeck", "isCorrect": false }
+        ],
+        "explanation": "'The Great Gatsby' was written by F. Scott Fitzgerald."
+    },
+    {
+        "id": 10,
+        "question": "Which poet wrote 'The Waste Land'?",
+        "options": [
+            { "text": "T.S. Eliot", "isCorrect": true },
+            { "text": "Ezra Pound", "isCorrect": false },
+            { "text": "Robert Frost", "isCorrect": false },
+            { "text": "W.B. Yeats", "isCorrect": false }
+        ],
+        "explanation": "'The Waste Land' was written by T.S. Eliot."
+    }
+]

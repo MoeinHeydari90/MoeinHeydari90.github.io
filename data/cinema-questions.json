@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Who directed the movie 'Inception'?",
+        "options": [
+            { "text": "Steven Spielberg", "isCorrect": false },
+            { "text": "Christopher Nolan", "isCorrect": true },
+            { "text": "James Cameron", "isCorrect": false },
+            { "text": "Quentin Tarantino", "isCorrect": false }
+        ],
+        "explanation": "Christopher Nolan directed the movie 'Inception'."
+    },
+    {
+        "id": 2,
+        "question": "Which movie won the Oscar for Best Picture in 2020?",
+        "options": [
+            { "text": "1917", "isCorrect": false },
+            { "text": "Joker", "isCorrect": false },
+            { "text": "Parasite", "isCorrect": true },
+            { "text": "Once Upon a Time in Hollywood", "isCorrect": false }
+        ],
+        "explanation": "'Parasite' won the Oscar for Best Picture in 2020."
+    },
+    {
+        "id": 3,
+        "question": "Who played the character of Jack Dawson in 'Titanic'?",
+        "options": [
+            { "text": "Brad Pitt", "isCorrect": false },
+            { "text": "Tom Cruise", "isCorrect": false },
+            { "text": "Leonardo DiCaprio", "isCorrect": true },
+            { "text": "Matt Damon", "isCorrect": false }
+        ],
+        "explanation": "Leonardo DiCaprio played the character of Jack Dawson in 'Titanic'."
+    },
+    {
+        "id": 4,
+        "question": "Which film features the song 'My Heart Will Go On'?",
+        "options": [
+            { "text": "The Bodyguard", "isCorrect": false },
+            { "text": "Pretty Woman", "isCorrect": false },
+            { "text": "Titanic", "isCorrect": true },
+            { "text": "Ghost", "isCorrect": false }
+        ],
+        "explanation": "The song 'My Heart Will Go On' is featured in the film 'Titanic'."
+    },
+    {
+        "id": 5,
+        "question": "Which actor starred as the titular character in the 2019 film 'Joker'?",
+        "options": [
+            { "text": "Joaquin Phoenix", "isCorrect": true },
+            { "text": "Heath Ledger", "isCorrect": false },
+            { "text": "Jared Leto", "isCorrect": false },
+            { "text": "Jack Nicholson", "isCorrect": false }
+        ],
+        "explanation": "Joaquin Phoenix starred as the titular character in the 2019 film 'Joker'."
+    },
+    {
+        "id": 6,
+        "question": "In which movie does the character 'Forrest Gump' appear?",
+        "options": [
+            { "text": "The Shawshank Redemption", "isCorrect": false },
+            { "text": "Forrest Gump", "isCorrect": true },
+            { "text": "Pulp Fiction", "isCorrect": false },
+            { "text": "Fight Club", "isCorrect": false }
+        ],
+        "explanation": "The character 'Forrest Gump' appears in the movie 'Forrest Gump'."
+    },
+    {
+        "id": 7,
+        "question": "Which actress played the role of Hermione Granger in the Harry Potter series?",
+        "options": [
+            { "text": "Emma Watson", "isCorrect": true },
+            { "text": "Emma Stone", "isCorrect": false },
+            { "text": "Jennifer Lawrence", "isCorrect": false },
+            { "text": "Natalie Portman", "isCorrect": false }
+        ],
+        "explanation": "Emma Watson played the role of Hermione Granger in the Harry Potter series."
+    },
+    {
+        "id": 8,
+        "question": "Which movie is famous for the line, 'Here's looking at you, kid'?",
+        "options": [
+            { "text": "Gone with the Wind", "isCorrect": false },
+            { "text": "Casablanca", "isCorrect": true },
+            { "text": "Citizen Kane", "isCorrect": false },
+            { "text": "The Godfather", "isCorrect": false }
+        ],
+        "explanation": "The line 'Here's looking at you, kid' is from the movie 'Casablanca'."
+    },
+    {
+        "id": 9,
+        "question": "Who directed the film 'Pulp Fiction'?",
+        "options": [
+            { "text": "Martin Scorsese", "isCorrect": false },
+            { "text": "Quentin Tarantino", "isCorrect": true },
+            { "text": "Francis Ford Coppola", "isCorrect": false },
+            { "text": "Ridley Scott", "isCorrect": false }
+        ],
+        "explanation": "Quentin Tarantino directed the film 'Pulp Fiction'."
+    },
+    {
+        "id": 10,
+        "question": "Which movie features a young boy who can see and talk to ghosts?",
+        "options": [
+            { "text": "The Sixth Sense", "isCorrect": true },
+            { "text": "Poltergeist", "isCorrect": false },
+            { "text": "The Others", "isCorrect": false },
+            { "text": "Insidious", "isCorrect": false }
+        ],
+        "explanation": "The movie 'The Sixth Sense' features a young boy who can see and talk to ghosts."
+    }
+]
