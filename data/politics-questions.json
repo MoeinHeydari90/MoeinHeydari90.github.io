@@ -8,7 +8,8 @@
             { "text": "James Madison", "isCorrect": true },
             { "text": "Alexander Hamilton", "isCorrect": false }
         ],
-        "explanation": "James Madison is known as the 'Father of the Constitution' in the United States."
+        "explanation": "James Madison is known as the 'Father of the Constitution' in the United States.",
+        "quiz name": "Politics"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Conservatism", "isCorrect": false },
             { "text": "Liberalism", "isCorrect": false }
         ],
-        "explanation": "Libertarianism advocates for minimal government intervention in personal and economic matters."
+        "explanation": "Libertarianism advocates for minimal government intervention in personal and economic matters.",
+        "quiz name": "Politics"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Making laws", "isCorrect": true },
             { "text": "Electing the president", "isCorrect": false }
         ],
-        "explanation": "The primary function of the legislative branch of government is making laws."
+        "explanation": "The primary function of the legislative branch of government is making laws.",
+        "quiz name": "Politics"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "Communism", "isCorrect": true },
             { "text": "Fascism", "isCorrect": false }
         ],
-        "explanation": "Communism is the political theory associated with Karl Marx."
+        "explanation": "Communism is the political theory associated with Karl Marx.",
+        "quiz name": "Politics"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "Having three branches", "isCorrect": false },
             { "text": "Having a judicial review", "isCorrect": false }
         ],
-        "explanation": "In the context of a legislative body, 'bicameral' means having two houses."
+        "explanation": "In the context of a legislative body, 'bicameral' means having two houses.",
+        "quiz name": "Politics"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "Niccolò Machiavelli", "isCorrect": true },
             { "text": "Jean-Jacques Rousseau", "isCorrect": false }
         ],
-        "explanation": "Niccolò Machiavelli wrote the political treatise 'The Prince'."
+        "explanation": "Niccolò Machiavelli wrote the political treatise 'The Prince'.",
+        "quiz name": "Politics"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "France", "isCorrect": false },
             { "text": "Russia", "isCorrect": false }
         ],
-        "explanation": "Switzerland is known for its policy of neutrality in international conflicts."
+        "explanation": "Switzerland is known for its policy of neutrality in international conflicts.",
+        "quiz name": "Politics"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "To create a new monarchy", "isCorrect": false },
             { "text": "To unify the British Isles", "isCorrect": false }
         ],
-        "explanation": "The main purpose of the Magna Carta when it was signed in 1215 was to limit the power of the king."
+        "explanation": "The main purpose of the Magna Carta when it was signed in 1215 was to limit the power of the king.",
+        "quiz name": "Politics"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "Enforcing laws", "isCorrect": true },
             { "text": "Electing officials", "isCorrect": false }
         ],
-        "explanation": "The main role of the executive branch of government is enforcing laws."
+        "explanation": "The main role of the executive branch of government is enforcing laws.",
+        "quiz name": "Politics"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "United States Constitution", "isCorrect": true },
             { "text": "Federalist Papers", "isCorrect": false }
         ],
-        "explanation": "The United States Constitution outlines the supreme law of the United States."
+        "explanation": "The United States Constitution outlines the supreme law of the United States.",
+        "quiz name": "Politics"
     }
 ]

@@ -8,7 +8,8 @@
             { "text": "Aristotle", "isCorrect": false },
             { "text": "Pythagoras", "isCorrect": false }
         ],
-        "explanation": "Socrates is known as the father of Western philosophy."
+        "explanation": "Socrates is known as the father of Western philosophy.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Friedrich Nietzsche", "isCorrect": false },
             { "text": "John Locke", "isCorrect": false }
         ],
-        "explanation": "Immanuel Kant wrote 'Critique of Pure Reason'."
+        "explanation": "Immanuel Kant wrote 'Critique of Pure Reason'.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 3,
@@ -33,7 +35,8 @@
             { "text": "The theory of forms", "isCorrect": false },
             { "text": "The importance of education", "isCorrect": false }
         ],
-        "explanation": "Plato's 'Allegory of the Cave' illustrates the nature of reality and perception."
+        "explanation": "Plato's 'Allegory of the Cave' illustrates the nature of reality and perception.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 4,
@@ -44,7 +47,8 @@
             { "text": "René Descartes", "isCorrect": true },
             { "text": "Baruch Spinoza", "isCorrect": false }
         ],
-        "explanation": "René Descartes is famous for the quote 'I think, therefore I am'."
+        "explanation": "René Descartes is famous for the quote 'I think, therefore I am'.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 5,
@@ -55,7 +59,8 @@
             { "text": "Socrates", "isCorrect": false },
             { "text": "Epicurus", "isCorrect": false }
         ],
-        "explanation": "Plato wrote 'The Republic'."
+        "explanation": "Plato wrote 'The Republic'.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 6,
@@ -72,7 +77,8 @@
             { "text": "Ethics and moral values", "isCorrect": false },
             { "text": "Political theory and justice", "isCorrect": false }
         ],
-        "explanation": "Existentialist philosophy primarily focuses on the meaning of existence and individual freedom."
+        "explanation": "Existentialist philosophy primarily focuses on the meaning of existence and individual freedom.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 7,
@@ -83,7 +89,8 @@
             { "text": "Jean-Paul Sartre", "isCorrect": false },
             { "text": "Arthur Schopenhauer", "isCorrect": false }
         ],
-        "explanation": "Friedrich Nietzsche is associated with the concept of the 'Übermensch'."
+        "explanation": "Friedrich Nietzsche is associated with the concept of the 'Übermensch'.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 8,
@@ -94,7 +101,8 @@
             { "text": "G.W.F. Hegel", "isCorrect": false },
             { "text": "Martin Heidegger", "isCorrect": false }
         ],
-        "explanation": "Jeremy Bentham developed the theory of utilitarianism."
+        "explanation": "Jeremy Bentham developed the theory of utilitarianism.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 9,
@@ -108,7 +116,8 @@
             { "text": "The highest form of knowledge", "isCorrect": false },
             { "text": "The state of nature", "isCorrect": false }
         ],
-        "explanation": "In philosophy, 'tabula rasa' refers to the mind as a blank slate."
+        "explanation": "In philosophy, 'tabula rasa' refers to the mind as a blank slate.",
+        "quiz name": "Philosophy"
     },
     {
         "id": 10,
@@ -119,6 +128,7 @@
             { "text": "Martin Heidegger", "isCorrect": true },
             { "text": "Simone de Beauvoir", "isCorrect": false }
         ],
-        "explanation": "Martin Heidegger wrote 'Being and Time'."
+        "explanation": "Martin Heidegger wrote 'Being and Time'.",
+        "quiz name": "Philosophy"
     }
 ]

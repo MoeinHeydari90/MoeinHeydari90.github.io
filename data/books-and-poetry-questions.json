@@ -8,7 +8,8 @@
             { "text": "J.D. Salinger", "isCorrect": false },
             { "text": "Ernest Hemingway", "isCorrect": false }
         ],
-        "explanation": "'To Kill a Mockingbird' was written by Harper Lee."
+        "explanation": "'To Kill a Mockingbird' was written by Harper Lee.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Edgar Allan Poe", "isCorrect": true },
             { "text": "Walt Whitman", "isCorrect": false }
         ],
-        "explanation": "'The Raven' was written by Edgar Allan Poe."
+        "explanation": "'The Raven' was written by Edgar Allan Poe.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Mary Shelley", "isCorrect": false },
             { "text": "Louisa May Alcott", "isCorrect": false }
         ],
-        "explanation": "'Pride and Prejudice' was written by Jane Austen."
+        "explanation": "'Pride and Prejudice' was written by Jane Austen.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "War and Peace", "isCorrect": false },
             { "text": "The Catcher in the Rye", "isCorrect": false }
         ],
-        "explanation": "'Moby Dick' begins with the line 'Call me Ishmael'."
+        "explanation": "'Moby Dick' begins with the line 'Call me Ishmael'.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "Ray Bradbury", "isCorrect": false },
             { "text": "Kurt Vonnegut", "isCorrect": false }
         ],
-        "explanation": "'1984' was written by George Orwell."
+        "explanation": "'1984' was written by George Orwell.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "Robert Frost", "isCorrect": false },
             { "text": "Langston Hughes", "isCorrect": false }
         ],
-        "explanation": "Walt Whitman is known for the collection 'Leaves of Grass'."
+        "explanation": "Walt Whitman is known for the collection 'Leaves of Grass'.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "Saadi - Iran", "isCorrect": true },
             { "text": "Pablo Neruda - Chile", "isCorrect": false }
         ],
-        "explanation": "The poem at the entrance of the United Nations headquarters is by Saadi, a Persian poet from Iran."
+        "explanation": "The poem at the entrance of the United Nations headquarters is by Saadi, a Persian poet from Iran.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "T.S. Eliot", "isCorrect": false },
             { "text": "W.H. Auden", "isCorrect": false }
         ],
-        "explanation": "'Do Not Go Gentle into That Good Night' was written by Dylan Thomas."
+        "explanation": "'Do Not Go Gentle into That Good Night' was written by Dylan Thomas.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "William Faulkner", "isCorrect": false },
             { "text": "John Steinbeck", "isCorrect": false }
         ],
-        "explanation": "'The Great Gatsby' was written by F. Scott Fitzgerald."
+        "explanation": "'The Great Gatsby' was written by F. Scott Fitzgerald.",
+        "quiz name": "Books and Poetry"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "Robert Frost", "isCorrect": false },
             { "text": "W.B. Yeats", "isCorrect": false }
         ],
-        "explanation": "'The Waste Land' was written by T.S. Eliot."
+        "explanation": "'The Waste Land' was written by T.S. Eliot.",
+        "quiz name": "Books and Poetry"
     }
 ]

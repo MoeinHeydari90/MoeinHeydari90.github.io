@@ -20,7 +20,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "Copenhagen is the capital of Denmark."
+        "explanation": "Copenhagen is the capital of Denmark.",
+        "quiz name": "Geography"
     },
     {
         "id": 2,
@@ -43,7 +44,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "The Pacific Ocean is the largest ocean on Earth, covering about 30% of the Earth's surface."
+        "explanation": "The Pacific Ocean is the largest ocean on Earth, covering about 30% of the Earth's surface.",
+        "quiz name": "Geography"
     },
     {
         "id": 3,
@@ -66,7 +68,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "The Nile River, spanning over 6,650 kilometers (4,130 miles), is the longest river in the world."
+        "explanation": "The Nile River, spanning over 6,650 kilometers (4,130 miles), is the longest river in the world.",
+        "quiz name": "Geography"
     },
     {
         "id": 4,
@@ -89,7 +92,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "Mount Everest, with an elevation of 8,848 meters (29,029 feet), is the highest mountain in the world."
+        "explanation": "Mount Everest, with an elevation of 8,848 meters (29,029 feet), is the highest mountain in the world.",
+        "quiz name": "Geography"
     },
     {
         "id": 5,
@@ -112,7 +116,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of about 3.6 million square miles."
+        "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of about 3.6 million square miles.",
+        "quiz name": "Geography"
     },
     {
         "id": 6,
@@ -135,7 +140,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "Vatican City is the smallest country in the world by land area, with an area of just 0.17 square miles."
+        "explanation": "Vatican City is the smallest country in the world by land area, with an area of just 0.17 square miles.",
+        "quiz name": "Geography"
     },
     {
         "id": 7,
@@ -158,7 +164,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "Asia is the largest continent, covering about 30% of the Earth's land area."
+        "explanation": "Asia is the largest continent, covering about 30% of the Earth's land area.",
+        "quiz name": "Geography"
     },
     {
         "id": 8,
@@ -181,7 +188,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "The Himalayas, spanning across several countries in Asia, is the longest mountain range in the world."
+        "explanation": "The Himalayas, spanning across several countries in Asia, is the longest mountain range in the world.",
+        "quiz name": "Geography"
     },
     {
         "id": 9,
@@ -204,7 +212,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "Greenland, an autonomous territory of Denmark, is the largest island in the world."
+        "explanation": "Greenland, an autonomous territory of Denmark, is the largest island in the world.",
+        "quiz name": "Geography"
     },
     {
         "id": 10,
@@ -227,6 +236,7 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "Kazakhstan is the largest landlocked country in the world, with an area of about 1,049,150 square miles."
+        "explanation": "Kazakhstan is the largest landlocked country in the world, with an area of about 1,049,150 square miles.",
+        "quiz name": "Geography"
     }
 ]

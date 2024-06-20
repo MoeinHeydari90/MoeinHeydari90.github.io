@@ -8,7 +8,8 @@
             { "text": "France", "isCorrect": true },
             { "text": "Argentina", "isCorrect": false }
         ],
-        "explanation": "France won the FIFA World Cup in 2018."
+        "explanation": "France won the FIFA World Cup in 2018.",
+        "quiz name": "Sports"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Basketball", "isCorrect": false },
             { "text": "Baseball", "isCorrect": true }
         ],
-        "explanation": "The term 'home run' is used in baseball."
+        "explanation": "The term 'home run' is used in baseball.",
+        "quiz name": "Sports"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Carl Lewis", "isCorrect": false },
             { "text": "Mark Spitz", "isCorrect": false }
         ],
-        "explanation": "Michael Phelps holds the record for the most Olympic gold medals."
+        "explanation": "Michael Phelps holds the record for the most Olympic gold medals.",
+        "quiz name": "Sports"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "NFL", "isCorrect": false },
             { "text": "IOC", "isCorrect": false }
         ],
-        "explanation": "The highest governing body of soccer is FIFA."
+        "explanation": "The highest governing body of soccer is FIFA.",
+        "quiz name": "Sports"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "Australia", "isCorrect": false },
             { "text": "United Kingdom", "isCorrect": true }
         ],
-        "explanation": "The Wimbledon tennis tournament is hosted in the United Kingdom."
+        "explanation": "The Wimbledon tennis tournament is hosted in the United Kingdom.",
+        "quiz name": "Sports"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "LeBron James", "isCorrect": true },
             { "text": "Shaquille O'Neal", "isCorrect": false }
         ],
-        "explanation": "LeBron James is known as 'The King'."
+        "explanation": "LeBron James is known as 'The King'.",
+        "quiz name": "Sports"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "11", "isCorrect": true },
             { "text": "12", "isCorrect": false }
         ],
-        "explanation": "There are 11 players on a soccer team on the field."
+        "explanation": "There are 11 players on a soccer team on the field.",
+        "quiz name": "Sports"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "Blank", "isCorrect": false },
             { "text": "Zero", "isCorrect": false }
         ],
-        "explanation": "The term for a score of zero in tennis is 'Love'."
+        "explanation": "The term for a score of zero in tennis is 'Love'.",
+        "quiz name": "Sports"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "Australia", "isCorrect": true },
             { "text": "England", "isCorrect": false }
         ],
-        "explanation": "Australia has won the most Cricket World Cups."
+        "explanation": "Australia has won the most Cricket World Cups.",
+        "quiz name": "Sports"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "Basketball", "isCorrect": true },
             { "text": "Tennis", "isCorrect": false }
         ],
-        "explanation": "A 'slam dunk' is performed in basketball."
+        "explanation": "A 'slam dunk' is performed in basketball.",
+        "quiz name": "Sports"
     }
 ]

@@ -8,7 +8,8 @@
             { "text": "Regulating international trade", "isCorrect": false },
             { "text": "Setting fiscal policy", "isCorrect": false }
         ],
-        "explanation": "The primary function of the Federal Reserve is controlling the money supply."
+        "explanation": "The primary function of the Federal Reserve is controlling the money supply.",
+        "quiz name": "Economy"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Gross Development Potential", "isCorrect": false },
             { "text": "Global Development Plan", "isCorrect": false }
         ],
-        "explanation": "GDP stands for Gross Domestic Product."
+        "explanation": "GDP stands for Gross Domestic Product.",
+        "quiz name": "Economy"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Adam Smith", "isCorrect": false },
             { "text": "Milton Friedman", "isCorrect": false }
         ],
-        "explanation": "David Ricardo is known for the theory of comparative advantage."
+        "explanation": "David Ricardo is known for the theory of comparative advantage.",
+        "quiz name": "Economy"
     },
     {
         "id": 4,
@@ -47,7 +50,8 @@
             { "text": "An increase in the value of money", "isCorrect": false },
             { "text": "A decrease in the supply of money", "isCorrect": false }
         ],
-        "explanation": "Inflation is an increase in the general price level."
+        "explanation": "Inflation is an increase in the general price level.",
+        "quiz name": "Economy"
     },
     {
         "id": 5,
@@ -58,7 +62,8 @@
             { "text": "Monetarism", "isCorrect": false },
             { "text": "Marxism", "isCorrect": false }
         ],
-        "explanation": "Laissez-faire economics advocates for minimal government intervention in the economy."
+        "explanation": "Laissez-faire economics advocates for minimal government intervention in the economy.",
+        "quiz name": "Economy"
     },
     {
         "id": 6,
@@ -81,7 +86,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "The law of demand states that as the price of a good increases, the quantity demanded decreases."
+        "explanation": "The law of demand states that as the price of a good increases, the quantity demanded decreases.",
+        "quiz name": "Economy"
     },
     {
         "id": 7,
@@ -92,7 +98,8 @@
             { "text": "John Maynard Keynes", "isCorrect": false },
             { "text": "Friedrich Hayek", "isCorrect": false }
         ],
-        "explanation": "Adam Smith wrote 'The Wealth of Nations'."
+        "explanation": "Adam Smith wrote 'The Wealth of Nations'.",
+        "quiz name": "Economy"
     },
     {
         "id": 8,
@@ -115,7 +122,8 @@
                 "isCorrect": false
             }
         ],
-        "explanation": "A recession is a period of declining economic performance across an economy."
+        "explanation": "A recession is a period of declining economic performance across an economy.",
+        "quiz name": "Economy"
     },
     {
         "id": 9,
@@ -132,7 +140,8 @@
             },
             { "text": "To regulate the money supply", "isCorrect": false }
         ],
-        "explanation": "The purpose of a tariff is to raise revenue for the government and protect domestic industries."
+        "explanation": "The purpose of a tariff is to raise revenue for the government and protect domestic industries.",
+        "quiz name": "Economy"
     },
     {
         "id": 10,
@@ -143,6 +152,7 @@
             { "text": "Milton Friedman", "isCorrect": false },
             { "text": "Alfred Marshall", "isCorrect": false }
         ],
-        "explanation": "Joseph Schumpeter is associated with the idea of 'creative destruction'."
+        "explanation": "Joseph Schumpeter is associated with the idea of 'creative destruction'.",
+        "quiz name": "Economy"
     }
 ]

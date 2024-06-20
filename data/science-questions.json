@@ -8,7 +8,8 @@
             { "text": "CO2", "isCorrect": false },
             { "text": "NaCl", "isCorrect": false }
         ],
-        "explanation": "The chemical symbol for water is H2O."
+        "explanation": "The chemical symbol for water is H2O.",
+        "quiz name": "Science"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Jupiter", "isCorrect": false },
             { "text": "Saturn", "isCorrect": false }
         ],
-        "explanation": "Mars is known as the Red Planet."
+        "explanation": "Mars is known as the Red Planet.",
+        "quiz name": "Science"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Mitochondria", "isCorrect": true },
             { "text": "Endoplasmic reticulum", "isCorrect": false }
         ],
-        "explanation": "The mitochondria is known as the powerhouse of the cell."
+        "explanation": "The mitochondria is known as the powerhouse of the cell.",
+        "quiz name": "Science"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "Gravity", "isCorrect": true },
             { "text": "Friction", "isCorrect": false }
         ],
-        "explanation": "Gravity is the force that keeps us grounded on the Earth."
+        "explanation": "Gravity is the force that keeps us grounded on the Earth.",
+        "quiz name": "Science"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "Nitrogen", "isCorrect": true },
             { "text": "Hydrogen", "isCorrect": false }
         ],
-        "explanation": "Nitrogen is the most abundant gas in Earth's atmosphere."
+        "explanation": "Nitrogen is the most abundant gas in Earth's atmosphere.",
+        "quiz name": "Science"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "Nucleus", "isCorrect": true },
             { "text": "Neutron", "isCorrect": false }
         ],
-        "explanation": "The center of an atom is called the nucleus."
+        "explanation": "The center of an atom is called the nucleus.",
+        "quiz name": "Science"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "Jupiter", "isCorrect": true },
             { "text": "Saturn", "isCorrect": false }
         ],
-        "explanation": "Jupiter is the largest planet in our solar system."
+        "explanation": "Jupiter is the largest planet in our solar system.",
+        "quiz name": "Science"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "Medulla oblongata", "isCorrect": false },
             { "text": "Hypothalamus", "isCorrect": false }
         ],
-        "explanation": "The cerebellum is responsible for regulating balance and coordination."
+        "explanation": "The cerebellum is responsible for regulating balance and coordination.",
+        "quiz name": "Science"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "Diamond", "isCorrect": true },
             { "text": "Platinum", "isCorrect": false }
         ],
-        "explanation": "Diamond is the hardest natural substance on Earth."
+        "explanation": "Diamond is the hardest natural substance on Earth.",
+        "quiz name": "Science"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "150°C", "isCorrect": false },
             { "text": "200°C", "isCorrect": false }
         ],
-        "explanation": "The boiling point of water at standard atmospheric pressure is 100°C."
+        "explanation": "The boiling point of water at standard atmospheric pressure is 100°C.",
+        "quiz name": "Science"
     }
 ]

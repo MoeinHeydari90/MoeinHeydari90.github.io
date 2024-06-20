@@ -8,7 +8,8 @@
             { "text": "James Cameron", "isCorrect": false },
             { "text": "Quentin Tarantino", "isCorrect": false }
         ],
-        "explanation": "Christopher Nolan directed the movie 'Inception'."
+        "explanation": "Christopher Nolan directed the movie 'Inception'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Parasite", "isCorrect": true },
             { "text": "Once Upon a Time in Hollywood", "isCorrect": false }
         ],
-        "explanation": "'Parasite' won the Oscar for Best Picture in 2020."
+        "explanation": "'Parasite' won the Oscar for Best Picture in 2020.",
+        "quiz name": "Cinema"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Leonardo DiCaprio", "isCorrect": true },
             { "text": "Matt Damon", "isCorrect": false }
         ],
-        "explanation": "Leonardo DiCaprio played the character of Jack Dawson in 'Titanic'."
+        "explanation": "Leonardo DiCaprio played the character of Jack Dawson in 'Titanic'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "Titanic", "isCorrect": true },
             { "text": "Ghost", "isCorrect": false }
         ],
-        "explanation": "The song 'My Heart Will Go On' is featured in the film 'Titanic'."
+        "explanation": "The song 'My Heart Will Go On' is featured in the film 'Titanic'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "Jared Leto", "isCorrect": false },
             { "text": "Jack Nicholson", "isCorrect": false }
         ],
-        "explanation": "Joaquin Phoenix starred as the titular character in the 2019 film 'Joker'."
+        "explanation": "Joaquin Phoenix starred as the titular character in the 2019 film 'Joker'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "Pulp Fiction", "isCorrect": false },
             { "text": "Fight Club", "isCorrect": false }
         ],
-        "explanation": "The character 'Forrest Gump' appears in the movie 'Forrest Gump'."
+        "explanation": "The character 'Forrest Gump' appears in the movie 'Forrest Gump'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "Jennifer Lawrence", "isCorrect": false },
             { "text": "Natalie Portman", "isCorrect": false }
         ],
-        "explanation": "Emma Watson played the role of Hermione Granger in the Harry Potter series."
+        "explanation": "Emma Watson played the role of Hermione Granger in the Harry Potter series.",
+        "quiz name": "Cinema"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "Citizen Kane", "isCorrect": false },
             { "text": "The Godfather", "isCorrect": false }
         ],
-        "explanation": "The line 'Here's looking at you, kid' is from the movie 'Casablanca'."
+        "explanation": "The line 'Here's looking at you, kid' is from the movie 'Casablanca'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "Francis Ford Coppola", "isCorrect": false },
             { "text": "Ridley Scott", "isCorrect": false }
         ],
-        "explanation": "Quentin Tarantino directed the film 'Pulp Fiction'."
+        "explanation": "Quentin Tarantino directed the film 'Pulp Fiction'.",
+        "quiz name": "Cinema"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "The Others", "isCorrect": false },
             { "text": "Insidious", "isCorrect": false }
         ],
-        "explanation": "The movie 'The Sixth Sense' features a young boy who can see and talk to ghosts."
+        "explanation": "The movie 'The Sixth Sense' features a young boy who can see and talk to ghosts.",
+        "quiz name": "Cinema"
     }
 ]

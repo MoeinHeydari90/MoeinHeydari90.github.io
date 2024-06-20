@@ -8,7 +8,8 @@
             { "text": "Madrid", "isCorrect": false },
             { "text": "Rome", "isCorrect": false }
         ],
-        "explanation": "Copenhagen is the capital of Denmark."
+        "explanation": "Copenhagen is the capital of Denmark.",
+        "quiz name": "General Information"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "Arctic Ocean", "isCorrect": false },
             { "text": "Pacific Ocean", "isCorrect": true }
         ],
-        "explanation": "The Pacific Ocean is the largest ocean on Earth."
+        "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+        "quiz name": "General Information"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Jane Austen", "isCorrect": false },
             { "text": "Mark Twain", "isCorrect": false }
         ],
-        "explanation": "William Shakespeare wrote 'Hamlet'."
+        "explanation": "William Shakespeare wrote 'Hamlet'.",
+        "quiz name": "General Information"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "Jupiter", "isCorrect": false },
             { "text": "Saturn", "isCorrect": false }
         ],
-        "explanation": "Mars is known as the Red Planet."
+        "explanation": "Mars is known as the Red Planet.",
+        "quiz name": "General Information"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "Vatican City", "isCorrect": true },
             { "text": "San Marino", "isCorrect": false }
         ],
-        "explanation": "Vatican City is the smallest country in the world."
+        "explanation": "Vatican City is the smallest country in the world.",
+        "quiz name": "General Information"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "Avocado", "isCorrect": true },
             { "text": "Pepper", "isCorrect": false }
         ],
-        "explanation": "The main ingredient in guacamole is avocado."
+        "explanation": "The main ingredient in guacamole is avocado.",
+        "quiz name": "General Information"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "Leonardo da Vinci", "isCorrect": true },
             { "text": "Claude Monet", "isCorrect": false }
         ],
-        "explanation": "Leonardo da Vinci painted the Mona Lisa."
+        "explanation": "Leonardo da Vinci painted the Mona Lisa.",
+        "quiz name": "General Information"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "Nile River", "isCorrect": true },
             { "text": "Mississippi River", "isCorrect": false }
         ],
-        "explanation": "The Nile River is the longest river in the world."
+        "explanation": "The Nile River is the longest river in the world.",
+        "quiz name": "General Information"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "Silver", "isCorrect": false },
             { "text": "Hydrogen", "isCorrect": false }
         ],
-        "explanation": "The chemical symbol 'O' stands for Oxygen."
+        "explanation": "The chemical symbol 'O' stands for Oxygen.",
+        "quiz name": "General Information"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "New York City", "isCorrect": true },
             { "text": "San Francisco", "isCorrect": false }
         ],
-        "explanation": "New York City is known as the Big Apple."
+        "explanation": "New York City is known as the Big Apple.",
+        "quiz name": "General Information"
     }
 ]

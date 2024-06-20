@@ -8,7 +8,8 @@
             { "text": "George Washington", "isCorrect": true },
             { "text": "John Adams", "isCorrect": false }
         ],
-        "explanation": "George Washington was the first President of the United States."
+        "explanation": "George Washington was the first President of the United States.",
+        "quiz name": "History"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             { "text": "1923", "isCorrect": false },
             { "text": "1918", "isCorrect": false }
         ],
-        "explanation": "The Titanic sank in 1912."
+        "explanation": "The Titanic sank in 1912.",
+        "quiz name": "History"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             { "text": "Nikita Khrushchev", "isCorrect": false },
             { "text": "Mikhail Gorbachev", "isCorrect": false }
         ],
-        "explanation": "Joseph Stalin was the leader of the Soviet Union during World War II."
+        "explanation": "Joseph Stalin was the leader of the Soviet Union during World War II.",
+        "quiz name": "History"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             { "text": "Religious conflict", "isCorrect": false },
             { "text": "Colonial ambitions", "isCorrect": false }
         ],
-        "explanation": "Economic hardship and inequality were the main causes of the French Revolution."
+        "explanation": "Economic hardship and inequality were the main causes of the French Revolution.",
+        "quiz name": "History"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             { "text": "British Empire", "isCorrect": true },
             { "text": "Mongol Empire", "isCorrect": false }
         ],
-        "explanation": "The British Empire was known as the 'Empire on which the sun never sets'."
+        "explanation": "The British Empire was known as the 'Empire on which the sun never sets'.",
+        "quiz name": "History"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             { "text": "1991", "isCorrect": false },
             { "text": "1993", "isCorrect": false }
         ],
-        "explanation": "The Berlin Wall fell in 1989."
+        "explanation": "The Berlin Wall fell in 1989.",
+        "quiz name": "History"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             { "text": "Jacqueline Cochran", "isCorrect": false },
             { "text": "Bessie Coleman", "isCorrect": false }
         ],
-        "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean."
+        "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean.",
+        "quiz name": "History"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             { "text": "Mayas", "isCorrect": false },
             { "text": "Olmecs", "isCorrect": false }
         ],
-        "explanation": "The Incas built the Machu Picchu complex in Peru."
+        "explanation": "The Incas built the Machu Picchu complex in Peru.",
+        "quiz name": "History"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             { "text": "Angela Merkel", "isCorrect": false },
             { "text": "Indira Gandhi", "isCorrect": false }
         ],
-        "explanation": "Margaret Thatcher was known as the 'Iron Lady'."
+        "explanation": "Margaret Thatcher was known as the 'Iron Lady'.",
+        "quiz name": "History"
     },
     {
         "id": 10,
@@ -107,6 +116,7 @@
             { "text": "Iran", "isCorrect": true },
             { "text": "Egypt", "isCorrect": false }
         ],
-        "explanation": "Iran was known as Persia until 1935."
+        "explanation": "Iran was known as Persia until 1935.",
+        "quiz name": "History"
     }
 ]
