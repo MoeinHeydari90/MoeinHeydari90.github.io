@@ -9,7 +9,7 @@
             { "text": "Quentin Tarantino", "isCorrect": false }
         ],
         "explanation": "Christopher Nolan directed the movie 'Inception'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
             { "text": "Once Upon a Time in Hollywood", "isCorrect": false }
         ],
         "explanation": "'Parasite' won the Oscar for Best Picture in 2020.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
             { "text": "Matt Damon", "isCorrect": false }
         ],
         "explanation": "Leonardo DiCaprio played the character of Jack Dawson in 'Titanic'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
             { "text": "Ghost", "isCorrect": false }
         ],
         "explanation": "The song 'My Heart Will Go On' is featured in the film 'Titanic'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
             { "text": "Jack Nicholson", "isCorrect": false }
         ],
         "explanation": "Joaquin Phoenix starred as the titular character in the 2019 film 'Joker'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
             { "text": "Fight Club", "isCorrect": false }
         ],
         "explanation": "The character 'Forrest Gump' appears in the movie 'Forrest Gump'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
             { "text": "Natalie Portman", "isCorrect": false }
         ],
         "explanation": "Emma Watson played the role of Hermione Granger in the Harry Potter series.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
             { "text": "The Godfather", "isCorrect": false }
         ],
         "explanation": "The line 'Here's looking at you, kid' is from the movie 'Casablanca'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
             { "text": "Ridley Scott", "isCorrect": false }
         ],
         "explanation": "Quentin Tarantino directed the film 'Pulp Fiction'.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     },
     {
         "id": 10,
@@ -117,6 +117,6 @@
             { "text": "Insidious", "isCorrect": false }
         ],
         "explanation": "The movie 'The Sixth Sense' features a young boy who can see and talk to ghosts.",
-        "quiz name": "Cinema"
+        "quiz name": "Movies"
     }
 ]
